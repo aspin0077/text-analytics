@@ -12,3 +12,4 @@ In this we are going to cover the following topics:
   Text Classification
   
  
+Licensed under [MIT license](LICENSE).
